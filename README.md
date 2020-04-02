@@ -1,6 +1,6 @@
 # Shortest path Planning Project 
 
-This project finds the shortest path between two given nodes on OpenStreet map data using A* search algorithm.
+This project finds the shortest path between two given nodes on OpenStreet map data using A-star search algorithm.
 
 ## Cloning
 
