@@ -4,7 +4,7 @@ This project finds the shortest path between two given nodes on OpenStreet map d
 
 ## Cloning
 
-When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
+While cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
 git clone https://github.com/anikket786/Shortest_Path_on_Openstreet_map_data-.git. --recurse-submodules
 ```
