@@ -1,6 +1,6 @@
 # Shortest path Planning Project 
 
-This project finds the shortest path between two given nodes on OpenStreet map data using A-star search algorithm. Open street map is a map of the world create b the open-source community. All the data is stored in XML file format. For more infor refer [here](https://www.openstreetmap.org/#map=4/21.88/82.88)
+This software helps to find the shortest path between two given nodes on OpenStreet map data using A-star search algorithm. Open street map is a map of the world create b the open-source community. All the data is stored in XML file format. For more infor refer [here](https://www.openstreetmap.org/#map=4/21.88/82.88)
 
 ## Cloning
 
